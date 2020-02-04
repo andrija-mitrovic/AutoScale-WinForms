@@ -1,0 +1,5 @@
+D:\Projects\WinForms\AutoScale\AutoScale.Library\bin\Debug\AutoScale.Library.dll
+D:\Projects\WinForms\AutoScale\AutoScale.Library\bin\Debug\AutoScale.Library.pdb
+D:\Projects\WinForms\AutoScale\AutoScale.Library\obj\Debug\AutoScale.Library.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\AutoScale\AutoScale.Library\obj\Debug\AutoScale.Library.dll
+D:\Projects\WinForms\AutoScale\AutoScale.Library\obj\Debug\AutoScale.Library.pdb
